@@ -1,4 +1,4 @@
 function x() {
-alert("This run's after 20 seconds");
+alert("This run's after 5 seconds");
 }
-setTimeout(x(),200);
+setTimeout(x(),5000);
